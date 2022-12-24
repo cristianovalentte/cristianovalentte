@@ -1,4 +1,4 @@
-## Hello! I´m Cristiano Valente
+## Hello! I´m Cristiano Valente, student of front end programming languages
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cristiano-valente-612a4b248/">
